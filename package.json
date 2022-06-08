@@ -1,0 +1,22 @@
+{
+  "name": "boss-rush-progression",
+  "version": "0.0.1",
+  "description": "A mod for The Binding of Isaac: Repentance.",
+  "keywords": [
+    "isaac",
+    "mod",
+    "rebirth",
+    "afterbirth",
+    "repentance"
+  ],
+  "license": "GPL-3.0",
+  "type": "commonjs",
+  "dependencies": {
+    "isaac-typescript-definitions": "^2.0.55",
+    "isaacscript": "^2.1.3",
+    "isaacscript-common": "^2.3.2",
+    "isaacscript-lint": "^1.1.7",
+    "isaacscript-spell": "^1.1.2",
+    "typescript-to-lua": "^1.5.0"
+  }
+}
